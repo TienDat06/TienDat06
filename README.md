@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ta-dat-83bba8266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ta-dat-83bba8266/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ta-dat-83bba8266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ta-dat-83bba8266/" height="30" width="40" /></a>
 <a href="mailto:tadat290903@gmail.com" target="blank"><img style="height: 40px" align="center" src="https://res.cloudinary.com/dervs0fx5/image/upload/v1733901017/readme/gfjf0gign0lmgzkk8nqw.png" alt="https://www.linkedin.com/in/ta-dat-83bba8266/" height="30" width="40" /></a>
 </p>
 
